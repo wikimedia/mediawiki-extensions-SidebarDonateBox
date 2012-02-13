@@ -193,6 +193,14 @@ $messages['lb'] = array(
 	'DONATE' => 'Maacht en Don',
 );
 
+/** Basa Banyumasan (Basa Banyumasan)
+ * @author StefanusRA
+ */
+$messages['map-bms'] = array(
+	'sidebardonatebox-desc' => 'Tambahna kotak sumbangan kustom nang sidebar',
+	'DONATE' => 'Nyumbang',
+);
+
 /** Macedonian (Македонски)
  * @author Bjankuloski06
  */
