@@ -73,10 +73,12 @@ $messages['dsb'] = array(
 );
 
 /** Spanish (Español)
+ * @author Armando-Martin
  * @author Crazymadlover
  */
 $messages['es'] = array(
 	'sidebardonatebox-desc' => 'Agrega un cuadro de donación personalizado a la barra lateral',
+	'DONATE' => 'Donar',
 );
 
 /** Basque (Euskara)
