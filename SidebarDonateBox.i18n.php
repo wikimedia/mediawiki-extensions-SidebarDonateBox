@@ -195,6 +195,14 @@ $messages['lb'] = array(
 	'DONATE' => 'Maacht en Don',
 );
 
+/** Lushai (Mizo ţawng)
+ * @author RMizo
+ */
+$messages['lus'] = array(
+	'sidebardonatebox-desc' => 'Veilam sírah vehbur khawnna a dah',
+	'DONATE' => 'Vẹhbúr',
+);
+
 /** Basa Banyumasan (Basa Banyumasan)
  * @author StefanusRA
  */
