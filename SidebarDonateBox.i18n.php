@@ -163,7 +163,7 @@ $messages['id'] = array(
 	'DONATE' => 'Menyumbang',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Beta16
  * @author Gianfranco
  */
