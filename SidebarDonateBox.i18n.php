@@ -174,10 +174,11 @@ $messages['it'] = array(
 
 /** Japanese (日本語)
  * @author Schu
+ * @author Shirayuki
  * @author 青子守歌
  */
 $messages['ja'] = array(
-	'sidebardonatebox-desc' => 'サイドバーに、カスタムな寄付ボックスを追加する',
+	'sidebardonatebox-desc' => 'カスタム寄付ボックスをサイドバーに追加する',
 	'DONATE' => '寄付',
 );
 
