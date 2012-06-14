@@ -23,7 +23,7 @@ $messages['qqq'] = array(
 	'DONATE' => '{{Identical|Donate}}',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -40,7 +40,7 @@ $messages['be-tarask'] = array(
 	'DONATE' => 'Ахвяраваць',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Y-M D
  */
 $messages['br'] = array(
@@ -48,7 +48,7 @@ $messages['br'] = array(
 	'DONATE' => 'Ober un donezon',
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -72,7 +72,7 @@ $messages['dsb'] = array(
 	'DONATE' => 'Pósćiś',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Armando-Martin
  * @author Crazymadlover
  */
@@ -81,14 +81,14 @@ $messages['es'] = array(
 	'DONATE' => 'Donar',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author An13sa
  */
 $messages['eu'] = array(
 	'sidebardonatebox-desc' => 'Alboko barran dohaintza kutxa gehitzen da',
 );
 
-/** French (Français)
+/** French (français)
  * @author Crochet.david
  * @author Peter17
  */
@@ -97,7 +97,7 @@ $messages['fr'] = array(
 	'DONATE' => 'Faire un don',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -138,7 +138,7 @@ $messages['hsb'] = array(
 	'DONATE' => 'Darić',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Dj
  */
 $messages['hu'] = array(
@@ -146,7 +146,7 @@ $messages['hu'] = array(
 	'DONATE' => 'Adományozás',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -214,7 +214,7 @@ $messages['map-bms'] = array(
 	'DONATE' => 'Nyumbang',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -252,14 +252,14 @@ $messages['nl'] = array(
 	'DONATE' => 'Doneren',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Boulaur
  */
 $messages['oc'] = array(
 	'DONATE' => 'Far un don',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  * @author Woytecr
  */
@@ -277,7 +277,7 @@ $messages['pms'] = array(
 	'DONATE' => 'Doné',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  */
 $messages['pt'] = array(
@@ -285,21 +285,21 @@ $messages['pt'] = array(
 	'DONATE' => 'Donativos',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Giro720
  */
 $messages['pt-br'] = array(
 	'sidebardonatebox-desc' => 'Adiciona à barra lateral uma caixa personalizada para donativos',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
 	'sidebardonatebox-desc' => "Aggiunge 'na sckatole personalizzate de donazziune a 'a barre orizzondale",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
@@ -323,21 +323,21 @@ $messages['tr'] = array(
 	'DONATE' => 'Bağış',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Alex Khimich
  */
 $messages['uk'] = array(
 	'sidebardonatebox-desc' => 'Додає вікно для пожертвувань на бічну панель',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Hydra
  */
 $messages['zh-hans'] = array(
 	'sidebardonatebox-desc' => '侧栏中添加一个自定义捐框',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬) */
+/** Traditional Chinese (‪中文（繁體）‬) */
 $messages['zh-hant'] = array(
 	'sidebardonatebox-desc' => '側欄中添加一個自定義捐框',
 );
