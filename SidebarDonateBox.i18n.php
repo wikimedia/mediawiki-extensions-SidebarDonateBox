@@ -31,7 +31,7 @@ $messages['ast'] = array(
 	'DONATE' => 'Donativos',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Wizardist
  */
@@ -64,7 +64,7 @@ $messages['de'] = array(
 	'DONATE' => 'Spenden',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -104,7 +104,7 @@ $messages['frp'] = array(
 	'DONATE' => 'Balyér',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -130,7 +130,7 @@ $messages['he'] = array(
 	'DONATE' => 'תרומה',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
