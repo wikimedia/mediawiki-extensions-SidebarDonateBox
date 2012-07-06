@@ -121,6 +121,13 @@ $messages['gsw'] = array(
 	'DONATE' => 'Spände',
 );
 
+/** Gujarati (ગુજરાતી)
+ * @author Ashok modhvadia
+ */
+$messages['gu'] = array(
+	'DONATE' => 'દાન',
+);
+
 /** Hebrew (עברית)
  * @author Amire80
  * @author YaronSh
@@ -312,6 +319,7 @@ $messages['ru'] = array(
  */
 $messages['tl'] = array(
 	'sidebardonatebox-desc' => 'Nagdaragdag ng isang pasadyang kahong ambagan sa baretang panggilid',
+	'DONATE' => 'Magkaloob',
 );
 
 /** Turkish (Türkçe)
