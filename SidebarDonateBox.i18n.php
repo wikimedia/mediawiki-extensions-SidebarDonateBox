@@ -237,18 +237,20 @@ $messages['ms'] = array(
 	'DONATE' => 'Derma',
 );
 
-/** Erzya (Эрзянь)
+/** Erzya (эрзянь)
  * @author Botuzhaleny-sodamo
  */
 $messages['myv'] = array(
 	'DONATE' => 'Лезксйармаконь максома',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
+ * @author Event
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
 	'sidebardonatebox-desc' => 'Legger til en egendefinert donasjonsboks til sidepanelet',
+	'DONATE' => 'Doner',
 );
 
 /** Dutch (Nederlands)
