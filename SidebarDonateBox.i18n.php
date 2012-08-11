@@ -189,6 +189,13 @@ $messages['ja'] = array(
 	'DONATE' => '寄付',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'DONATE' => 'შემოწირვა',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
