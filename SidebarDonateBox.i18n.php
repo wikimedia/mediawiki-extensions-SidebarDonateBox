@@ -323,6 +323,20 @@ $messages['ru'] = array(
 	'DONATE' => 'Пожертвовать',
 );
 
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'DONATE' => 'පරිත්‍යාග කරන්න',
+);
+
+/** Tamil (தமிழ்)
+ * @author Karthi.dr
+ */
+$messages['ta'] = array(
+	'DONATE' => 'நன்கொடை அளிக்கவும்',
+);
+
 /** Tagalog (Tagalog)
  * @author AnakngAraw
  */
