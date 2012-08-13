@@ -81,6 +81,13 @@ $messages['es'] = array(
 	'DONATE' => 'Donar',
 );
 
+/** Estonian (eesti)
+ * @author Avjoska
+ */
+$messages['et'] = array(
+	'DONATE' => 'Anneta',
+);
+
 /** Basque (euskara)
  * @author An13sa
  */
