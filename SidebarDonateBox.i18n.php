@@ -368,6 +368,13 @@ $messages['uk'] = array(
 	'sidebardonatebox-desc' => 'Додає вікно для пожертвувань на бічну панель',
 );
 
+/** Urdu (اردو)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['ur'] = array(
+	'DONATE' => 'ابھی عطیہ',
+);
+
 /** Simplified Chinese (‪中文（简体）‬)
  * @author Hydra
  */
