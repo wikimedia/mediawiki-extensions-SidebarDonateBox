@@ -300,6 +300,13 @@ $messages['pms'] = array(
 	'DONATE' => 'Doné',
 );
 
+/** Pashto (پښتو)
+ * @author Ahmed-Najib-Biabani-Ibrahimkhel
+ */
+$messages['ps'] = array(
+	'DONATE' => 'بسپنه ورکول',
+);
+
 /** Portuguese (português)
  * @author Hamilton Abreu
  */
