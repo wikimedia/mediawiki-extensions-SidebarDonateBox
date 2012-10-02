@@ -31,7 +31,7 @@ $messages['ast'] = array(
 	'DONATE' => 'Donativos',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Wizardist
  */
@@ -258,7 +258,7 @@ $messages['myv'] = array(
 	'DONATE' => 'Лезксйармаконь максома',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Event
  * @author Nghtwlkr
  */
@@ -382,14 +382,14 @@ $messages['ur'] = array(
 	'DONATE' => 'ابھی عطیہ',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Hydra
  */
 $messages['zh-hans'] = array(
 	'sidebardonatebox-desc' => '侧栏中添加一个自定义捐框',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬) */
+/** Traditional Chinese (中文（繁體）‎) */
 $messages['zh-hant'] = array(
 	'sidebardonatebox-desc' => '側欄中添加一個自定義捐框',
 );
