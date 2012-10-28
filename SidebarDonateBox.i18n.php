@@ -5,7 +5,7 @@
  */
  
 $messages = array();
- 
+
 /** English
  * @author Daniel Friesen
  */
@@ -219,7 +219,7 @@ $messages['lb'] = array(
 	'DONATE' => 'Maacht en Don',
 );
 
-/** Lushai (Mizo ţawng)
+/** Mizo (Mizo ţawng)
  * @author RMizo
  */
 $messages['lus'] = array(
@@ -389,8 +389,8 @@ $messages['zh-hans'] = array(
 	'sidebardonatebox-desc' => '侧栏中添加一个自定义捐框',
 );
 
-/** Traditional Chinese (中文（繁體）‎) */
+/** Traditional Chinese (中文（繁體）‎)
+ */
 $messages['zh-hant'] = array(
 	'sidebardonatebox-desc' => '側欄中添加一個自定義捐框',
 );
-
