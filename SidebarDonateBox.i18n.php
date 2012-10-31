@@ -203,6 +203,14 @@ $messages['ka'] = array(
 	'DONATE' => 'შემოწირვა',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'sidebardonatebox-desc' => '사이드바에 사용자 정의 기부 상자를 추가',
+	'DONATE' => '기부',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
