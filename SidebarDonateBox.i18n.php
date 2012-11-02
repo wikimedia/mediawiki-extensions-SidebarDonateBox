@@ -392,9 +392,11 @@ $messages['ur'] = array(
 
 /** Simplified Chinese (中文（简体）‎)
  * @author Hydra
+ * @author Yfdyh000
  */
 $messages['zh-hans'] = array(
 	'sidebardonatebox-desc' => '侧栏中添加一个自定义捐框',
+	'DONATE' => '捐款',
 );
 
 /** Traditional Chinese (中文（繁體）‎)
