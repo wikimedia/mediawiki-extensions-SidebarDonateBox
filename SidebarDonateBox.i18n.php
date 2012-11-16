@@ -395,7 +395,7 @@ $messages['ur'] = array(
  * @author Yfdyh000
  */
 $messages['zh-hans'] = array(
-	'sidebardonatebox-desc' => '侧栏中添加一个自定义捐框',
+	'sidebardonatebox-desc' => '侧栏中添加一个自定义捐款框',
 	'DONATE' => '捐款',
 );
 
