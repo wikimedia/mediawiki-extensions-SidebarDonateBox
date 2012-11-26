@@ -64,6 +64,13 @@ $messages['de'] = array(
 	'DONATE' => 'Spenden',
 );
 
+/** Zazaki (Zazaki)
+ * @author Mirzali
+ */
+$messages['diq'] = array(
+	'DONATE' => 'Beğş',
+);
+
 /** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
