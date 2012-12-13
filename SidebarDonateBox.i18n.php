@@ -187,9 +187,10 @@ $messages['id'] = array(
 /** Italian (italiano)
  * @author Beta16
  * @author Gianfranco
+ * @author Nemo bis
  */
 $messages['it'] = array(
-	'sidebardonatebox-desc' => 'Aggiunge alla barra laterale un bottone personalizzato per le donazioni',
+	'sidebardonatebox-desc' => 'Aggiunge alla barra laterale un pulsante personalizzato per le donazioni',
 	'DONATE' => 'Fai una donazione',
 );
 
