@@ -386,9 +386,11 @@ $messages['tr'] = array(
 
 /** Ukrainian (українська)
  * @author Alex Khimich
+ * @author Base
  */
 $messages['uk'] = array(
 	'sidebardonatebox-desc' => 'Додає вікно для пожертвувань на бічну панель',
+	'DONATE' => 'Пожертвувати',
 );
 
 /** Urdu (اردو)
