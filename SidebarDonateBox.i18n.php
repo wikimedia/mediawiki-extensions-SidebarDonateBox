@@ -102,6 +102,13 @@ $messages['eu'] = array(
 	'sidebardonatebox-desc' => 'Alboko barran dohaintza kutxa gehitzen da',
 );
 
+/** Persian (فارسی)
+ * @author Mjbmr
+ */
+$messages['fa'] = array(
+	'DONATE' => 'کمک مالی',
+);
+
 /** French (français)
  * @author Crochet.david
  * @author Peter17
