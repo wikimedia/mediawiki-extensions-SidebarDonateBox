@@ -367,6 +367,13 @@ $messages['si'] = array(
 	'DONATE' => 'පරිත්‍යාග කරන්න',
 );
 
+/** Swedish (svenska)
+ * @author WikiPhoenix
+ */
+$messages['sv'] = array(
+	'DONATE' => 'Donera',
+);
+
 /** Tamil (தமிழ்)
  * @author Karthi.dr
  */
