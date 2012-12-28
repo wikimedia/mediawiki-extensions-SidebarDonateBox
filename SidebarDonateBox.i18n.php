@@ -250,6 +250,13 @@ $messages['lus'] = array(
 	'DONATE' => 'Vẹhbúr',
 );
 
+/** Latvian (latviešu)
+ * @author Papuass
+ */
+$messages['lv'] = array(
+	'DONATE' => 'Ziedot',
+);
+
 /** Basa Banyumasan (Basa Banyumasan)
  * @author StefanusRA
  */
