@@ -352,6 +352,13 @@ $messages['pt-br'] = array(
 	'sidebardonatebox-desc' => 'Adiciona à barra lateral uma caixa personalizada para donativos',
 );
 
+/** Romanian (română)
+ * @author Stelistcristi
+ */
+$messages['ro'] = array(
+	'DONATE' => 'Donați',
+);
+
 /** tarandíne (tarandíne)
  * @author Joetaras
  */
@@ -371,6 +378,7 @@ $messages['ru'] = array(
  * @author පසිඳු කාවින්ද
  */
 $messages['si'] = array(
+	'sidebardonatebox-desc' => 'ව්‍යවහාර පරිත්‍යාග කොටුවක් පැතිබාරයට එක් කරයි',
 	'DONATE' => 'පරිත්‍යාග කරන්න',
 );
 
