@@ -364,6 +364,7 @@ $messages['ro'] = array(
  */
 $messages['roa-tara'] = array(
 	'sidebardonatebox-desc' => "Aggiunge 'na sckatole personalizzate de donazziune a 'a barre orizzondale",
+	'DONATE' => 'Done',
 );
 
 /** Russian (русский)
@@ -386,6 +387,7 @@ $messages['si'] = array(
  * @author WikiPhoenix
  */
 $messages['sv'] = array(
+	'sidebardonatebox-desc' => 'Lägger till en anpassad donationsruta till sidofältet',
 	'DONATE' => 'Donera',
 );
 
