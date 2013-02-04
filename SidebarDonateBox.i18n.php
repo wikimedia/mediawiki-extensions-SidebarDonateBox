@@ -55,6 +55,13 @@ $messages['bs'] = array(
 	'sidebardonatebox-desc' => 'Dodaje prilagođenu kutiju za donacije na traku za navigaciju',
 );
 
+/** Catalan (català)
+ * @author Pitort
+ */
+$messages['ca'] = array(
+	'DONATE' => 'Fes un donatiu',
+);
+
 /** German (Deutsch)
  * @author Kghbln
  * @author The Evil IP address
