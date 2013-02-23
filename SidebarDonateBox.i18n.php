@@ -272,6 +272,14 @@ $messages['map-bms'] = array(
 	'DONATE' => 'Nyumbang',
 );
 
+/** Minangkabau (Baso Minangkabau)
+ * @author Iwan Novirion
+ */
+$messages['min'] = array(
+	'sidebardonatebox-desc' => 'Tambahkan kotak donasi kustom ka sidebar',
+	'DONATE' => 'Manyumbang',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
