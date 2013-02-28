@@ -16,10 +16,11 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author EugeneZelenko
+ * @author Shirayuki
  * @author Umherirrender
  */
 $messages['qqq'] = array(
-	'sidebardonatebox-desc' => '{{desc}}',
+	'sidebardonatebox-desc' => '{{desc|name=Sidebar Donate Box|url=http://www.mediawiki.org/wiki/Extension:SidebarDonateBox}}',
 	'DONATE' => '{{Identical|Donate}}',
 );
 
