@@ -117,6 +117,13 @@ $messages['fa'] = array(
 	'DONATE' => 'کمک مالی',
 );
 
+/** Finnish (suomi)
+ * @author Silvonen
+ */
+$messages['fi'] = array(
+	'DONATE' => 'Lahjoita',
+);
+
 /** French (français)
  * @author Crochet.david
  * @author Peter17
