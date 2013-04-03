@@ -63,6 +63,14 @@ $messages['ca'] = array(
 	'DONATE' => 'Fes un donatiu',
 );
 
+/** Czech (česky)
+ * @author Mormegil
+ */
+$messages['cs'] = array(
+	'sidebardonatebox-desc' => 'Přidává do postranního panelu rámeček pro dary',
+	'DONATE' => 'Přispět',
+);
+
 /** German (Deutsch)
  * @author Kghbln
  * @author The Evil IP address
