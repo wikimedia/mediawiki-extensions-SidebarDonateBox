@@ -472,7 +472,9 @@ $messages['zh-hans'] = array(
 );
 
 /** Traditional Chinese (中文（繁體）‎)
+ * @author Simon Shek
  */
 $messages['zh-hant'] = array(
 	'sidebardonatebox-desc' => '側欄中添加一個自定義捐框',
+	'DONATE' => '捐款',
 );
