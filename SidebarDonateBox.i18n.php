@@ -319,7 +319,7 @@ $messages['myv'] = array(
 	'DONATE' => 'Лезксйармаконь максома',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author Event
  * @author Nghtwlkr
  */
