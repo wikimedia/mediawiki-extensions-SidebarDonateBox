@@ -27,9 +27,9 @@ if ( !defined( 'MEDIAWIKI' ) ) die( "This is an extension to the MediaWiki packa
 $wgExtensionCredits['parserhook'][] = array (
 	'path' => __FILE__,
 	'name' => 'SidebarDonateBox',
-	'url' => 'http://mediawiki.org/wiki/Extension:SidebarDonateBox',
+	'url' => 'https://mediawiki.org/wiki/Extension:SidebarDonateBox',
 	'version' => '1.1a',
-	'author' => "[http://mediawiki.org/wiki/User:Dantman Daniel Friesen]",
+	'author' => "[https://mediawiki.org/wiki/User:Dantman Daniel Friesen]",
 	'descriptionmsg' => 'sidebardonatebox-desc',
 );
 // Internationalization file
