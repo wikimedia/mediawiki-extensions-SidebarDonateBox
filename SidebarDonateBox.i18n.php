@@ -378,9 +378,11 @@ $messages['pt'] = array(
 
 /** Brazilian Portuguese (português do Brasil)
  * @author Giro720
+ * @author Jaideraf
  */
 $messages['pt-br'] = array(
-	'sidebardonatebox-desc' => 'Adiciona à barra lateral uma caixa personalizada para donativos',
+	'sidebardonatebox-desc' => 'Adiciona à barra lateral uma caixa personalizada para doações',
+	'DONATE' => 'Faça uma doação',
 );
 
 /** Romanian (română)
