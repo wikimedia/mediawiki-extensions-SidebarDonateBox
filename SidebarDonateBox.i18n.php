@@ -319,6 +319,13 @@ $messages['myv'] = array(
 	'DONATE' => 'Лезксйармаконь максома',
 );
 
+/** Mazanderani (مازِرونی)
+ * @author محک
+ */
+$messages['mzn'] = array(
+	'DONATE' => 'پول هدائن',
+);
+
 /** Norwegian Bokmål (norsk bokmål)
  * @author Event
  * @author Nghtwlkr
