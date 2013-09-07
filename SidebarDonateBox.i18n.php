@@ -345,8 +345,10 @@ $messages['nl'] = array(
 
 /** Occitan (occitan)
  * @author Boulaur
+ * @author Cedric31
  */
 $messages['oc'] = array(
+	'sidebardonatebox-desc' => 'Apond una bóstia pels dons personalizats dins la barra laterala',
 	'DONATE' => 'Far un don',
 );
 
