@@ -81,10 +81,11 @@ $messages['de'] = array(
 );
 
 /** Zazaki (Zazaki)
+ * @author Gorizon
  * @author Mirzali
  */
 $messages['diq'] = array(
-	'DONATE' => 'Beğş',
+	'DONATE' => 'Bèc',
 );
 
 /** Lower Sorbian (dolnoserbski)
