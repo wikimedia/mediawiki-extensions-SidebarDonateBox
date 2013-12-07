@@ -63,7 +63,7 @@ $messages['ca'] = array(
 	'DONATE' => 'Fes un donatiu',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Mormegil
  */
 $messages['cs'] = array(
