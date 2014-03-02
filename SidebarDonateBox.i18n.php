@@ -120,9 +120,11 @@ $messages['eu'] = array(
 );
 
 /** Persian (فارسی)
+ * @author Armin1392
  * @author Mjbmr
  */
 $messages['fa'] = array(
+	'sidebardonatebox-desc' => 'افزودن یک جعبه کمک‌های سفارشی برای نوار کناری',
 	'DONATE' => 'کمک مالی',
 );
 
