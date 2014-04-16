@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Armin1392",
-            "Mjbmr"
-        ]
-    },
-    "sidebardonatebox-desc": "افزودن یک جعبه کمک‌های سفارشی برای نوار کناری",
-    "DONATE": "کمک مالی"
+	"@metadata": {
+		"authors": [
+			"Armin1392",
+			"Mjbmr"
+		]
+	},
+	"sidebardonatebox-desc": "افزودن یک جعبه کمک‌های سفارشی برای نوار کناری",
+	"DONATE": "کمک مالی"
 }

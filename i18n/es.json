@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Armando-Martin",
-            "Crazymadlover"
-        ]
-    },
-    "sidebardonatebox-desc": "Agrega un cuadro de donación personalizado a la barra lateral",
-    "DONATE": "Donar"
+	"@metadata": {
+		"authors": [
+			"Armando-Martin",
+			"Crazymadlover"
+		]
+	},
+	"sidebardonatebox-desc": "Agrega un cuadro de donación personalizado a la barra lateral",
+	"DONATE": "Donar"
 }

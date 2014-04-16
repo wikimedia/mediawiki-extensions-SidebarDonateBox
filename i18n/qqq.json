@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "EugeneZelenko",
-            "Shirayuki",
-            "Umherirrender"
-        ]
-    },
-    "sidebardonatebox-desc": "{{desc|name=Sidebar Donate Box|url=http://www.mediawiki.org/wiki/Extension:SidebarDonateBox}}",
-    "DONATE": "{{Identical|Donate}}"
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Shirayuki",
+			"Umherirrender"
+		]
+	},
+	"sidebardonatebox-desc": "{{desc|name=Sidebar Donate Box|url=http://www.mediawiki.org/wiki/Extension:SidebarDonateBox}}",
+	"DONATE": "{{Identical|Donate}}"
 }
