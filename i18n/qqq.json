@@ -6,6 +6,6 @@
 			"Umherirrender"
 		]
 	},
-	"sidebardonatebox-desc": "{{desc|name=Sidebar Donate Box|url=http://www.mediawiki.org/wiki/Extension:SidebarDonateBox}}",
+	"sidebardonatebox-desc": "{{desc|name=Sidebar Donate Box|url=https://www.mediawiki.org/wiki/Extension:SidebarDonateBox}}",
 	"DONATE": "{{Identical|Donate}}"
 }
