@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Daniel Friesen"
-        ]
-    },
-    "sidebardonatebox-desc": "Adds a custom donate box to the sidebar",
-    "DONATE": "Donate"
+	"@metadata": {
+		"authors": [
+			"Daniel Friesen"
+		]
+	},
+	"sidebardonatebox-desc": "Adds a custom donate box to the sidebar",
+	"DONATE": "Donate"
 }
