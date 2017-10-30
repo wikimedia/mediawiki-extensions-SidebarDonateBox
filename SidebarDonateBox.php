@@ -21,7 +21,6 @@ $wgExtensionCredits['parserhook'][] = array(
 );
 // Internationalization file
 $wgMessagesDirs['SidebarDonateBox'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['SidebarDonateBox'] = __DIR__ . '/SidebarDonateBox.i18n.php';
 
 $wgHooks['SkinBuildSidebar'][] = 'efSidebarDonateBox';
 
