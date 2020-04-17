@@ -22,13 +22,8 @@ $wgExtensionCredits['parserhook'][] = array(
 // Internationalization file
 $wgMessagesDirs['SidebarDonateBox'] = __DIR__ . '/i18n';
 
-$wgHooks['SkinBuildSidebar'][] = 'efSidebarDonateBox';
-
-function efSidebarDonateBox( $skin, &$bar ) {
-	global $egSidebarDonateBoxContent;
-	$bar['donate'] = $egSidebarDonateBoxContent;
-	return true;
-}
+$wgAutoloadClasses['SidebarDonateBoxHooks'] = __DIR__ . '/src/SidebarDonateBoxHooks.php';
+$wgHooks['SkinBuildSidebar'][] = 'SidebarDonateBoxHooks::onSkinBuildSidebar';
 
 # Config variable holding the HTML content of the sidebar
 $egSidebarDonateBoxContent = '';
