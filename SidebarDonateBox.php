@@ -9,21 +9,16 @@
  * @link https://www.mediawiki.org/wiki/Extension:SidebarDonateBox Documentation
  */
 
-if ( !defined( 'MEDIAWIKI' ) ) die( "This is an extension to the MediaWiki package and cannot be run standalone." );
-
-$wgExtensionCredits['parserhook'][] = array(
-	'path' => __FILE__,
-	'name' => 'SidebarDonateBox',
-	'url' => 'https://www.mediawiki.org/wiki/Extension:SidebarDonateBox',
-	'version' => '1.2.0',
-	'author' => "[http://danf.ca/mw/ Daniel Friesen]",
-	'descriptionmsg' => 'sidebardonatebox-desc',
-);
-// Internationalization file
-$wgMessagesDirs['SidebarDonateBox'] = __DIR__ . '/i18n';
-
-$wgAutoloadClasses['SidebarDonateBoxHooks'] = __DIR__ . '/src/SidebarDonateBoxHooks.php';
-$wgHooks['SkinBuildSidebar'][] = 'SidebarDonateBoxHooks::onSkinBuildSidebar';
-
-# Config variable holding the HTML content of the sidebar
-$egSidebarDonateBoxContent = '';
+if ( function_exists( 'wfLoadExtension' ) ) {
+	wfLoadExtension( 'SidebarDonateBox' );
+	// Keep i18n globals so mergeMessageFileList.php doesn't break
+	$wgMessagesDirs['SidebarDonateBox'] = __DIR__ . '/i18n';
+	wfWarn(
+		'Deprecated PHP entry point used for the SidebarDonateBox extension. ' .
+		'Please use wfLoadExtension() instead, ' .
+		'see https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Extension_registration for more details.'
+	);
+	return;
+} else {
+	die( 'This version of the SidebarDonateBox extension requires MediaWiki 1.29+' );
+}

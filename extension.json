@@ -1,0 +1,30 @@
+{
+	"name": "SidebarDonateBox",
+	"version": "1.2.0",
+	"author": "[http://danf.ca/mw/ Daniel Friesen]",
+	"url": "https://www.mediawiki.org/wiki/Extension:SidebarDonateBox",
+	"descriptionmsg": "sidebardonatebox-desc",
+	"type": "parserhook",
+	"requires": {
+		"MediaWiki": ">= 1.29.0"
+	},
+	"MessagesDirs": {
+		"SidebarDonateBox": [
+			"i18n"
+		]
+	},
+	"AutoloadClasses": {
+		"SidebarDonateBoxHooks": "src/SidebarDonateBoxHooks.php"
+	},
+	"Hooks": {
+		"SkinBuildSidebar": "SidebarDonateBoxHooks::onSkinBuildSidebar"
+	},
+	"config_prefix": "eg",
+	"config": {
+		"SidebarDonateBoxContent": {
+			"description": "Config variable holding the HTML content of the sidebar.",
+			"value": ""
+		}
+	},
+	"manifest_version": 2
+}
