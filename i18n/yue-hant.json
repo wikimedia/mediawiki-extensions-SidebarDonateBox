@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"JeffreyKim",
 			"Winston Sung"
 		]
 	},
+	"sidebardonatebox-desc": "喺側欄加入咗個自訂捐款框",
 	"DONATE": "捐畀維基百科"
 }
