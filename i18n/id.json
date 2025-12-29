@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"IvanLanin",
-			"Kenrick95"
+			"Kenrick95",
+			"Penyuwangi"
 		]
 	},
-	"sidebardonatebox-desc": "Tambahkan sebuah kotak donasi kustom ke sidebar",
+	"sidebardonatebox-desc": "Tambahkan sebuah kotak sumbangan kustom ke bilah sisi",
 	"DONATE": "Menyumbang"
 }
